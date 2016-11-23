@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*createObject
+Disallow: /HelpSys
+Disallow: /*sendto_form$
+Disallow: /*folder_factories$
